@@ -1,0 +1,5 @@
+{
+  "name": "L.E.M.S - Local Evidence Management System",
+  "description": "A secure, offline-first capable evidence management system for legal and physical evidence tracking. Features a 5-stage workflow from reception to archiving with barcode support simulation.",
+  "requestFramePermissions": []
+}
